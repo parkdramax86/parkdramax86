@@ -1,5 +1,5 @@
-👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning web development and simuational development.
-👀 I’m interested in developing frontend web applications and simulation appliications.
+<p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning web development and simuational development.</p>
+<p>👀 I’m interested in developing frontend web applications and simulation appliications.</p>
 🌱 I’m currently studying the fundamentals of software engineering and web app development.
 💞️ I’m looking to collaborate on projects such as computer simulations and mobile development. projects.
 📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]
