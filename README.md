@@ -1,7 +1,7 @@
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning IT Support and Cybersecurity.</p>
 <p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
 <p>🌱 I’m currently studying the fundamentals of software engineering and web app development.</p>
-<p>💞️ I’m looking to collaborate on projects such as concering IT infrastructure with operating systems such Red Hat.</p>
+<p>💞️ I’m looking to collaborate on projects such as concering IT infrastructure with operating systems such Red Hat Linux®.</p>
 <p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
 
 <!--
