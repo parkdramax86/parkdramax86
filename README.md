@@ -4,6 +4,12 @@
 <p>💞️ I’m looking to collaborate on projects such as IT infrastructure with operating systems such Red Hat Linux®.</p>
 <p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
 
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
+- [Twitter](https://twitter.com/YourTwitterHandle)
+- [Website](https://yourwebsite.com)
 <!--
 **parkdramax86/parkdramax86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
