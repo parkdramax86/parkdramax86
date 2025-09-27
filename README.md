@@ -1,5 +1,3 @@
-
-
 👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning web development and simuational development.
 👀 I’m interested in developing frontend web applications and simulation appliications.
 🌱 I’m currently studying the fundamentals of software engineering and web app development.
