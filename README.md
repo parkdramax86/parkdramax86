@@ -7,9 +7,8 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Twitter](https://twitter.com/YourTwitterHandle)
-- [Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/shakimleslie/)
+- [Twitter](https://twitter.com/parkdramax86)
 <!--
 **parkdramax86/parkdramax86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
