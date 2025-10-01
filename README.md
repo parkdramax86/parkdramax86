@@ -1,6 +1,6 @@
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning IT Support and Cybersecurity.</p>
 <p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
-<p>🌱 Acquiring knowledge of programming languages such as JavaScript, C++, Bash and Python.</p>
+<p>🌱 Acquiring knowledge of programming languages such as JavaScript, PowerShell, Bash and Python.</p>
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
 <p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
 
