@@ -7,7 +7,7 @@
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
 <p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@Parkdramax64?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/@Parkdramax64">
