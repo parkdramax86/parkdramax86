@@ -19,6 +19,7 @@
   <a href="https://github.com/parkdramax86/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+-->
 
 ## Certifications
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
