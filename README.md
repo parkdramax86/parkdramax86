@@ -11,6 +11,7 @@
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
 
 ### Skills
+<img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 
 ## Connect with Me
 
