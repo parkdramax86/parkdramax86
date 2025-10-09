@@ -9,7 +9,7 @@
 
 ## Certifications
 [Google IT Support Professional Certificate](https://coursera.org/share/086baa07118b755d1be30a3ae9e93a2f)]
-
+![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
 
 ## Connect with Me
 
