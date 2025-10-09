@@ -6,7 +6,7 @@
 <p>🌱 Acquiring knowledge of programming languages such as JavaScript, PowerShell, Bash and Python.</p>
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
 <p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
-
+<!--
 <p align="left">
   <a href="https://www.youtube.com/@Parkdramax64?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -19,7 +19,7 @@
   <a href="https://github.com/parkdramax86/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-
+-->
 ## Certifications
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
 
