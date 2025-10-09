@@ -1,6 +1,6 @@
 # Hello,I am Shakim Leslie (aka parkdramax86)
 
-[Brief Introduction]
+
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning IT Support and Cybersecurity.</p>
 <p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
 <p>🌱 Acquiring knowledge of programming languages such as JavaScript, PowerShell, Bash and Python.</p>
