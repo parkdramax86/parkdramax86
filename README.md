@@ -10,6 +10,8 @@
 ## Certifications
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
 
+### Skills
+
 ## Connect with Me
 
 
