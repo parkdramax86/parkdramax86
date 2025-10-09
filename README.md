@@ -1,5 +1,5 @@
 # Hello, I am Shakim Leslie (aka parkdramax86)
-**`Technical Enthusiast(IT Support/Developer/Hacker)`**
+**`Technical Enthusiast (IT Support/Developer/Hacker)`**
 
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning IT Support and Cybersecurity.</p>
 <p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
