@@ -1,4 +1,4 @@
-# Hello,I am Shakim Leslie (aka parkdramax86)
+# Hello, I am Shakim Leslie (aka parkdramax86)
 
 
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I currently learning IT Support and Cybersecurity.</p>
