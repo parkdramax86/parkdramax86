@@ -8,7 +8,7 @@
 <p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
 
 ## Certifications
-![Google IT Support]<a href"https://coursera.org/share/086baa07118b755d1be30a3ae9e93a2f">(https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)</a>
+![Google IT Support]<a href="https://coursera.org/share/086baa07118b755d1be30a3ae9e93a2f">(https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)</a>
 
 ## Connect with Me
 
