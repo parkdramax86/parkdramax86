@@ -7,7 +7,7 @@
 
 ## Connect with Me
 
-- <a href="https://linkedin.com/in/shakimleslie"><img src="https://img.shields.io/badge/-LinkedIn-00072b1?style=for-the-badge&logo=linkedin&logoColor-white" /></a>
+- <a href="https://linkedin.com/in/shakimleslie"><img src="https://img.shields.io/badge/-LinkedIn-00072b1?style=for-the-badge&logo=linkedin&logoColor-blue" /></a>
 - [Twitter](https://twitter.com/parkdramax86)
 <!--
 **parkdramax86/parkdramax86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
