@@ -5,7 +5,7 @@
 <p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
 <p>🌱 Acquiring knowledge of programming languages such as JavaScript, PowerShell, Bash and Python.</p>
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
-<p>📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]</p>
+<p>📫 You can reach me by E-mail @ shakimleslie90[at]gmail.com - SUBJECT [Github Inquiry - (company name)]</p>
 <!--
 <p align="left">
   <a href="https://www.youtube.com/@Parkdramax64?sub_confirmation=1">
