@@ -24,16 +24,17 @@
 ## Certifications
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
 
-### Skills
-<img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+# Projects
+- <b>Microsoft Windows</b>
+  - [Installing Windows 10 Enterprise on Oracle VirtualBox](https://github.com/parkdramax86/Windows-10-Installing-Oracle-Virtualbox)
+
+
 
 ## Connect with Me
 
 
 <a href="https://linkedin.com/in/shakimleslie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>\
-<a href="https://twitter.com/parkdramax86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<!-- <a href="https://twitter.com/parkdramax86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
 
 
 <!--
