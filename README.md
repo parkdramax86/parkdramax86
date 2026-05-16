@@ -1,6 +1,12 @@
 # 💻 Hello, I am Shakim Leslie (aka parkdramax86)
 **`Technical Enthusiast (IT Support/Developer/Hacker)`**
 
+
+# Projects
+- <b>Microsoft Windows</b>
+  - [Installing Windows 10 Enterprise on Oracle VirtualBox](https://github.com/parkdramax86/Windows-10-Installing-Oracle-Virtualbox)
+<hr>
+
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I'm currently learning IT Support and Cybersecurity.</p>
 <p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
 <p>🌱 Acquiring knowledge of programming languages such as Python and Bash.</p>
@@ -33,7 +39,7 @@
 ## Connect with Me
 
 
-<a href="https://linkedin.com/in/shakimleslie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>\
+<a href="https://linkedin.com/in/shakimleslie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- <a href="https://twitter.com/parkdramax86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
 
 
