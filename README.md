@@ -35,13 +35,8 @@
 -->
 
 ## Certifications
-![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-informational?style=flat&logo=google&logoColor=white&color=blue)
-
-# Projects
-- <b>Microsoft Windows</b>
-  - [Installing Windows 10 Enterprise on Oracle VirtualBox](https://github.com/parkdramax86/Windows-10-Installing-Oracle-Virtualbox)
-
-
+   Google IT Support
+   Gooogle AI
 
 ## Connect with Me
 
