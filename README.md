@@ -6,7 +6,7 @@
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/parkdramax86/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/parkdramax86/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joeljjoseph1998/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/parkdramax86/ticket-lifecycle)
 - <b>Microsoft Windows</b>
   - [Installing Windows 10 Enterprise on Oracle VirtualBox](https://github.com/parkdramax86/Windows-10-Installing-Oracle-Virtualbox)
 <hr>
