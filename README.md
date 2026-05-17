@@ -1,5 +1,5 @@
 # 💻 Hello, I am Shakim Leslie (aka parkdramax86)
-**`Technical Enthusiast (IT Support/Developer/Hacker)`**
+**`Technical Enthusiast (IT Support/Developer/Security Researcher)`**
 
 
 # Projects
