@@ -7,6 +7,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/parkdramax86/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/parkdramax86/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/parkdramax86/ticket-lifecycle)
+   - <b>Microsoft Azure</b>
+  - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
 - <b>Microsoft Windows</b>
   - [Installing Windows 10 Enterprise on Oracle VirtualBox](https://github.com/parkdramax86/Windows-10-Installing-Oracle-Virtualbox)
 <hr>
