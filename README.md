@@ -35,8 +35,8 @@
 -->
 
 ## Certifications
-   Google IT Support
-   Gooogle AI
+   <strong>Google IT Support Certified Professional</strong><br>
+   <strong>Google AI Certified Professional</strong>
 
 ## Connect with Me
 
