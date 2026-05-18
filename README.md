@@ -15,10 +15,10 @@
 <hr>
 
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I'm currently learning IT Support and Cybersecurity.</p>
-<p>👀 I’m interested in developing web applications assist professionals in the cybersecurity sector.</p>
-<p>🌱 Acquiring knowledge of programming languages such as Python and Bash.</p>
+<p>👀 I’m interested in developing web applications to assist professionals in the cybersecurity sector.</p>
+<p>🌱 Acquiring knowledge of programming languages such as Python, C++ and Bash.</p>
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
-<p>📫 You can reach me by E-mail @ shakimleslie90[at]gmail.com - SUBJECT [Github Inquiry - (company name)]</p>
+<p>📫 You can reach me by email @ shakimleslie90[at]gmail.com - SUBJECT [Github Inquiry - (company name)]</p>
 <!--
 <p align="left">
   <a href="https://www.youtube.com/@Parkdramax64?sub_confirmation=1">
