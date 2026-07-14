@@ -1,5 +1,5 @@
 # 💻 Hello, I am Shakim Leslie (aka parkdramax86)
-**`Technical Enthusiast (IT Support/Developer/Security Researcher)`**
+**`Prime Technologist (IT Support/Developer/)`**
 
 
 # Projects
@@ -14,9 +14,9 @@
   - [Installing Windows 10 Enterprise on Oracle VirtualBox](https://github.com/parkdramax86/Windows-10-Installing-Oracle-Virtualbox)
 <hr>
 
-<p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I'm currently learning IT Support and Cybersecurity.</p>
-<p>👀 I’m interested in developing web applications to assist professionals in the cybersecurity sector.</p>
-<p>🌱 Acquiring knowledge of programming languages such as Python, Java, and Bash.</p>
+<p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I'm currently studying for my Security+ and Red Hat Certified System Administrator Certification.</p>
+<p>👀 I’m interested in developing desktop applications, simulations, and mobile applications .</p>
+<p>🌱 Acquiring knowledge of programming languages such as C++, Dart, C#, Bash.</p>
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
 <p>📫 You can reach me by email @ shakimleslie90[at]gmail.com - SUBJECT [Github Inquiry - (company name)]</p>
 <!--
