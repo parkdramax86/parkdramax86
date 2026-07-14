@@ -16,7 +16,7 @@
 
 <p>👋 Hi, I’m Shakim Leslie (aka parkdramax86). I'm currently studying for my Security+ and Red Hat Certified System Administrator Certification.</p>
 <p>👀 I’m interested in developing desktop applications, simulations, and mobile applications .</p>
-<p>🌱 Acquiring knowledge of programming languages such as C++, Dart, C#, Bash.</p>
+<p>🌱 Acquiring knowledge of programming languages such as C++, Dart, C#, Java, and Python. </p>
 <p>💞️ Currently, supplementing current knowledge with home labs using virtualization software.</p>
 <p>📫 You can reach me by email @ shakimleslie90[at]gmail.com - SUBJECT [Github Inquiry - (company name)]</p>
 <!--
